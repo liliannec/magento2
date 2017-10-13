@@ -1,0 +1,1 @@
+/opt/projects/magento2/lib/web/tiny_mce/langs/en.js
